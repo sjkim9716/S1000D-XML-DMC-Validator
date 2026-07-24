@@ -1,0 +1,6 @@
+{
+  "name": "S1000D XML & DMC Validator Linter",
+  "description": "한화에어로스페이스 IPS 기술교범 S1000D XML 및 DMC 자동 검수기 (QA Linter & Excel Report Generator)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
